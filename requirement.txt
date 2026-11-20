@@ -1,7 +1,1 @@
-streamlit
-tensorflow
-numpy
-opencv-python
-Pillow
-mtcnn
-pytest
+
