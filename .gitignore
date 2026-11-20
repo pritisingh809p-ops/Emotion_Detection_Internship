@@ -1,7 +1,41 @@
+# Python virtual environments (all folders)
 .venv/
+venv/
+env/
+**/.venv/
+**/venv/
+**/env/
+
+# Python cache
 __pycache__/
+**/__pycache__/
 *.pyc
+
+# Testing cache
+.pytest_cache/
+**/.pytest_cache/
+
+# Jupyter temporary files
 .ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# System files
 .DS_Store
+Thumbs.db
+
+# Private credentials
 .env
+**/.env
+secrets.json
+
+# Temporary files
+temp/
+logs/
 temp_model.keras
+**/venv/
+**/.venv/
+**/__pycache__/
+
+**/venv/
+**/.venv/
+**/__pycache__/

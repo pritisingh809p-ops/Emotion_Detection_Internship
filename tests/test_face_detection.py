@@ -1,5 +1,5 @@
 import numpy as np
-from app import detect_face
+from src.app import detect_face
 
 
 class MockDetector:

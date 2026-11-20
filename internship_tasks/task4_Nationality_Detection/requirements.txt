@@ -1,0 +1,10 @@
+# Compatible dependencies for Python 3.10 - 3.11
+streamlit==1.41.1
+deepface==0.0.93
+tf-keras==2.18.0
+tensorflow==2.18.0
+opencv-python-headless==4.10.0.84
+numpy==1.26.4
+pillow==11.0.0
+mediapipe==0.10.18
+pytest==8.3.4

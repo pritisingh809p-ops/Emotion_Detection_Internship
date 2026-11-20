@@ -1,6 +1,6 @@
 import numpy as np
 from PIL import Image
-from app import preprocess_image
+from src.app import preprocess_image
 
 
 def test_preprocess_image_shape():

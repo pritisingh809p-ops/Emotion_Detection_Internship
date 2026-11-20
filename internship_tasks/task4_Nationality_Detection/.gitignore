@@ -1,0 +1,21 @@
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Pytest & IDE caches
+.pytest_cache/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Downloaded model weights cached locally
+models/*.h5
+models/*.pb
+models/*.tflite
